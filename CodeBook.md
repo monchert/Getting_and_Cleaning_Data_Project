@@ -1,7 +1,7 @@
 				DATA DICTIONARY	
 	
-subject				Id of person performing the experiments
-activity			One of six activities (WALKING, WALKING_UPSTAIRS, WALKING_DOWNSTAIRS, SITTING, STANDING, LAYING) wearing a smartphone (Samsung Galaxy S II) on the waist"
+- subject				Id of person performing the experiments
+- activity			One of six activities (WALKING, WALKING_UPSTAIRS, WALKING_DOWNSTAIRS, SITTING, STANDING, LAYING) wearing a smartphone (Samsung Galaxy S II) on the waist"
 tBodyAcc-mean()-X		Average of mean values of body acceleration signals in X-axis for each activity and each subject
 tBodyAcc-mean()-Y		Average of mean values of body acceleration signals in Y-axis for each activity and each subject
 tBodyAcc-mean()-Z		Average of mean values of body acceleration signals in Z-axis for each activity and each subject
